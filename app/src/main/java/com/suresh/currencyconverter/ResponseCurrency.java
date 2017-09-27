@@ -4,7 +4,7 @@ package com.suresh.currencyconverter;
  * Created by Suresh on 27/09/17.
  */
 
-class ResponseCurrency {
+public class ResponseCurrency {
 
     public String amount;
     public String currency;
